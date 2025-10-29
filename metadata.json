@@ -1,0 +1,7 @@
+{
+  "name": "site-studio-jacilene-felix",
+  "description": "Um website para um estúdio de beleza de luxo, com assistentes de IA integrados para agendamento, consultas virtuais e demonstrações de serviços usando a API Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

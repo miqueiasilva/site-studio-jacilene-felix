@@ -64,3 +64,8 @@ O aplicativo estará disponível em `http://localhost:5173` (ou outra porta indi
 
 ---
 Desenvolvido com ❤️ e IA por Miquéias Silva.
+
+## 🌐 Deploy
+O projeto está disponível em produção em:  
+🔗 [https://studio-jacilene-felix.vercel.app](https://studio-jacilene-felix.vercel.app)
+
